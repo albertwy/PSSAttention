@@ -23,22 +23,22 @@ THEANO_FLAGS="device=gpu0" python main_total.py -ds_name [YOUR_DATASET_NAME] -lo
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
-@article{Tang:ACL2019,
-  title={Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis},
+@inproceedings{Tang:ACL2019,
   author={Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo},
-  booktitle={ACL},
-  year={2019}
+  title={Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis},
+  year={2019},
+  booktitle={ACL}
 }
 ```
 
 ## Note
 Most of this code and data are borrowed from:
 ```
-@article{Li:ACL2018,
-  title={Transformation Networks for Target-Oriented Sentiment Classification},
+@inproceedings{Li:ACL2018,
   author={Li, Xin and Bing, Lidong and Lam, Wai and Shi, Bei},
-  journal={ACL},
-  year={2018}
+  title={Transformation Networks for Target-Oriented Sentiment Classification},
+  year={2018},
+  booktitle={ACL}
 }
 ```
 
@@ -108,11 +108,11 @@ python SEMEVAL/thumt/bin/final_train.py \
 ## Citation
 If the code is used in your research, please cite our paper as follows:
 ```
-@article{Tang:ACL2019,
-  title={Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis},
+@inproceedings{Tang:ACL2019,
   author={Jialong Tang, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo},
-  booktitle={ACL},
-  year={2019}
+  title={Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis},
+  year={2019},
+  booktitle={ACL}
 }
 ```
 
