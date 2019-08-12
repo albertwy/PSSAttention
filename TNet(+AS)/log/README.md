@@ -13,7 +13,7 @@ macro-f1: 74.43, test accuracy: 78.25
 ### REST
 
 ```
-test accuracy: 73.56, macro-f1: 81.13
+macro-f1: 73.56, test accuracy: 81.13
 ```
 
 ### TWITTER
